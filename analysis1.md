@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Quantum Mechanics"
+title: "Mathematical analysis"
 ---
 
 #### Course Information
