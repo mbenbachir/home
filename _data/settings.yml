@@ -5,8 +5,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 courses:
-- {name: 'Mathematical Analysis', url: 'vector-calculus'}
-- {name: 'Fractional Calculus', url: 'quantum-mechanics'}
+- {name: 'Mathematical Analysis', url: 'analysis1'}
+- {name: 'Fractional Calculus', url: 'fract_calculus_m1'}
 
 contacts:
 - {name: 'Prof. Maamar Benbachir', title: 'Professor', institution: 'National Higher School of Mathematics', institution_address: 'Algiers, Algeria', phone: '(000) 000-0000', email: 'mbenbachir2001@gmail.com ', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
